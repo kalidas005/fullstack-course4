@@ -1,0 +1,113 @@
+<style> 
+	*{
+		box-sizing: border-box;
+	}
+	body{
+		background-color: #E0FFFF;
+	}
+	h1{
+		color: #FFD700;
+		margin: 50px;
+		text-align: center;
+		font-family: Helvetica;
+		font-weight: bold;
+		font-size: 300%;
+	}
+	section {
+		position: relative;
+		padding: 15px;
+		width: 100%;
+	}
+	p {
+		position: relative;
+		clear: both;
+	}
+	div {
+		position: relative;
+		background-color: #FFFACD;
+		border: 1px solid red;
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: auto;
+	}
+	.do1{
+		float: right;
+		color: white;
+		width: 100px;
+		padding: 5px;
+		margin: 0px;
+		border: 1px solid red;
+		text-align: center;
+		font-size: 125%;
+		font-weight: bold;
+		background-color:#FF4500;
+	}
+	.do2{
+		float: right;
+		color: #4B0082;
+		width: 100px;
+		padding: 5px;
+		margin: 0px;
+		border: 1px solid red;
+		text-align: center;
+		font-size: 125%;
+		font-weight: bold;
+		background-color:	#FFFAFA;
+	}
+	.do3{
+		float: right;
+		color: white;
+		width: 100px;
+		padding: 5px;
+		margin: 0px;
+		border: 1px solid red;
+		text-align: center;
+		font-size: 100%;
+		font-weight: bold;
+		background-color:#32CD32;
+	}
+	.rit{
+		padding: 5px;
+		border: none;
+		background-color: #FFFACD;
+		font-family: Helvetica;
+		color: black;
+		margin: 0px;
+		height: 200px;
+		overflow: auto;
+	}
+	.row{
+		width: 90%;
+	}
+@media(min-width: 992px)
+{.col-lg-2
+	{
+		float: left;
+		width:30%;
+	}
+}
+@media(min-width: 768px) and (max-width: 991px)
+{
+	.col-md-2{
+		width:45%;
+		float: left;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.col-md-3{
+		width:93%;
+		float: left;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+@media(max-width: 767px)
+{.col-xs-4{
+		float: left;
+		width:100%;
+	}
+}
+
+
+</style>
