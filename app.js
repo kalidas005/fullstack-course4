@@ -1,0 +1,2 @@
+kalidasgreeter.sayHello();
+ramugreeter.sayHi();
