@@ -1,2 +1,10 @@
-kalidasgreeter.sayHello();
-ramugreeter.sayHi();
+yaakovgreeter.sayHello();
+johngreeter.saygoodbye();
+jengreeter.saygoodbye();
+jasongreeter.saygoodbye();
+paulgreeter.sayHello();
+frankgreeter.sayHello();
+larrygreeter.sayHello();
+paulagreeter.sayHello();
+lauragreeter.sayHello();
+jimgreeter.saygoodbye();
